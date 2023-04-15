@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3cab902de62da6b63e77589653a0a25a055688be8d1d992b6df6fa60eba5c149"
+build_start_time: [1681560228, 577000141]
+build_end_time: [1681560236, 217193126]
+inputs:
+  "/Users/hee/git/HeeJeongOh.github.io/gobi_portfolio/macos/Flutter/GeneratedPluginRegistrant.swift": [1681560211, 746113777]
+  "/Users/hee/git/HeeJeongOh.github.io/gobi_portfolio/macos/Runner/AppDelegate.swift": [1677703615, 0]
+  "/Users/hee/git/HeeJeongOh.github.io/gobi_portfolio/macos/Runner/MainFlutterWindow.swift": [1677703615, 0]
